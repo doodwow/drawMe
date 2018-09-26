@@ -1,0 +1,33 @@
+Enter command: ----------------------
+
+|                    |
+
+|                    |
+
+|                    |
+
+|                    |
+
+|                    |
+
+----------------------
+
+Enter command: Invalid parameters
+Enter command: Invalid line parameters
+Enter command: Invalid line parameters
+Enter command: Invalid parameters
+Enter command: Invalid line parameters
+Enter command: Invalid parameters
+Enter command: Invalid line parameters
+Enter command: Invalid line parameters
+Enter command: Invalid line parameters
+Enter command: Invalid line parameters
+Enter command: Invalid line parameters
+Enter command: Invalid rectangle parameters
+Enter command: Invalid parameters
+Enter command: Invalid rectangle parameters
+Enter command: Invalid rectangle parameters
+Enter command: Invalid rectangle parameters
+Enter command: Invalid rectangle parameters
+Enter command: Invalid rectangle parameters
+Enter command: 
